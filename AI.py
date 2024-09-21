@@ -13,3 +13,5 @@ def generate_haiku():
 
 # Generate and display the random haiku
 print(generate_haiku())
+
+x =10 
