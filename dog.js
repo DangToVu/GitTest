@@ -1,3 +1,7 @@
 function dogg(){
     
 }
+
+function stomache (){
+    
+}
